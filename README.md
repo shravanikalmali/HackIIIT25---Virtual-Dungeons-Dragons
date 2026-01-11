@@ -1,4 +1,4 @@
-# Dragons and Destiny: A Virtual AI-Powered RPG
+# Dragons and Destiny: A Virtual AI-Powered RPG (Prototype for Dungeons & Dragons)
 
 This repository contains **Dragons and Destiny**, a virtual tabletop RPG platform that leverages multi-agent AI systems to create dynamic, player-driven narratives. Unlike traditional games with static scripts, this system uses an **AI Dungeon Master** to interpret intent, weave complex plots, and adapt the world in real-time based on player choices.
 
